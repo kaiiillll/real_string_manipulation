@@ -1,3 +1,4 @@
 # ask the user to input name
-# use the .title manipulation 
-# print the results
+users_input = input("Enter your name: ").title() # use the .title manipulation 
+print(users_input) # print the results
+
