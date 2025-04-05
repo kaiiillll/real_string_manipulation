@@ -1,3 +1,3 @@
 # ask  user to input name
-# use .upper string manipulation
-# print the modified name 
+user_input = input("Enter your name: ").upper() # use .upper string manipulation
+print(user_input) # print the modified name 
